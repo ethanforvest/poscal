@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "/poscal/",
+  basePath: "/poscal",
 };
 
 export default nextConfig;
